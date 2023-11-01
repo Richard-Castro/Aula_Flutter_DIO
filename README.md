@@ -1,16 +1,8 @@
-# trilhaapp
+Projeto Flutter com SQLITE - Projeto para aprendizagem - plataforma de ensino DIO
 
-A new Flutter project.
 
-## Getting Started
+![WhatsApp Image 2023-11-01 at 17 11 34](https://github.com/Richard-Castro/Aula_Flutter_Dio/assets/25597344/b908e120-d950-47b4-ba6d-d3cff052aec3)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-11-01 at 17 11 34 (2)](https://github.com/Richard-Castro/Aula_Flutter_Dio/assets/25597344/82efc92d-e4ea-491a-b410-a8133113f594)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-11-01 at 17 11 34 (1)](https://github.com/Richard-Castro/Aula_Flutter_Dio/assets/25597344/78c0e865-8b5c-4fd2-8d30-0b988d0f0165)
